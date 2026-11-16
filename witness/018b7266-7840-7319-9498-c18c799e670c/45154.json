@@ -1,0 +1,13 @@
+{
+  "public_key": "60520299d1e0da372139ab374af833e1ba30e572ad0ed24e08b168a79c45c00e",
+  "signature": "6d12023f1ca632ff3887d8f7560fa021c9c4db7ffee3ee508b8c8ff03c42e7d8cd04d4787f140a6a3daddfa7a4ce43c805f8cdbcee639130de9a58595048f200",
+  "sth": {
+    "clinic_id": "018b7266-7840-7319-9498-c18c799e670c",
+    "key_id": "842c0c78554a5901",
+    "prev_root_hex": "5a4b62f3937fa6760a730d02eaaa7bbeff454c5a9630e9b1d8c4d40ebfc70a4d",
+    "root_hex": "e58e568e8e045e3ea62cfb6c5015c2356e280dca3f136a2cd8e727e716c57a15",
+    "timestamp": 1794804293000,
+    "tree_size": 45154
+  },
+  "sth_digest": "52e808fbae8e35c54c7e87ae664fee97bbe78e3c0c42a5c3a2ca986e9379605c"
+}
